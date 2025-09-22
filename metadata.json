@@ -1,0 +1,5 @@
+{
+  "name": "Islamic Inheritance Calculator",
+  "description": "A tool to calculate inheritance distribution based on Quranic principles from Surah An-Nisa, ayahs 4:11 and 4:12. Enter the deceased's family details and estate value to see the calculated shares for each heir.",
+  "requestFramePermissions": []
+}
